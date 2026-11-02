@@ -20,7 +20,7 @@
 
 </div>
 
-Website : https://farjanaferdausi-cs50ai.github.io/Farjana-Ferdausi-Resume/
+                                           Website : https://farjanaferdausi-cs50ai.github.io/Farjana-Ferdausi-Resume/
 
 ---
 
