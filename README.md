@@ -18,10 +18,8 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farjana.rafi1983@gmail.com)
 [![Download CV](https://img.shields.io/badge/Download_CV-7C3AED?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](Farjana-Ferdausi-Resume.pdf)
 
-[Resume Website](https://farjanaferdausi-cs50ai.github.io/Farjana-Ferdausi-Resume/)
-
 </div>
-
+Resume Website: https://farjanaferdausi-cs50ai.github.io/Farjana-Ferdausi-Resume/
 ---
 
 ## ⚡ Summary
