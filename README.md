@@ -43,7 +43,7 @@ AI/ML Engineer building grounded, cloud-deployed LLM systems: RAG assistants, mu
 
 ## 🛰️ Experience
 
-**AI/ML Engineer, Freelance** · TR Enterprise (Start-up), Technology Division, Remote · *1 Sep 2026 – Present*
+**AI/ML Engineer, Independent** · TR Enterprise (Start-up), Technology Division, Remote · *1 Sep 2026 – Present*
 - Design, build and deploy cloud-hosted RAG chatbots, computer-vision services and data-analysis agents using Gemini, Google ADK, LangChain, LangGraph, BigQuery, FastAPI and Docker, owning the ML lifecycle from prototype to deployment.
 - Containerize FastAPI services with Docker and ship them to Google Cloud Run.
 - Enforce safeguards in AI workflows: least-privilege IAM, read-only SQL with dry-run validation, and human approval before any write action.
@@ -76,7 +76,7 @@ Planned, self-directed transition from HR to AI/ML engineering through structure
 - Screened resumes and candidates, scheduled and conducted interviews, and coordinated joining formalities.
 - Administered leave and daily time and attendance through the HRIS, tracking late arrivals, early departures and absenteeism.
 - Maintained employee files and HR records for 400+ employees with 100% documentation compliance; built Excel headcount and attrition reports.
-- Coordinated employee engagement and fundraising events; recognized with the Women's Loyalty Award (2018) and multiple Radisson Diamond, Platinum and Gold Awards.
+- Coordinated employee engagement events; recognized with the Women's Loyalty Award (2018) and multiple Radisson Diamond, Platinum and Gold Awards.
 
 </details>
 
@@ -136,7 +136,7 @@ Planned, self-directed transition from HR to AI/ML engineering through structure
 
 - **SOS Children's Village** · HR Team Representative, Radisson Blu · 2016 – 2020: visited about once every two months to donate food, clothes, soap and funds, support the children's education and spend time with them.
 - **Crisis Management Team Member** · Radisson Blu · Aug 2015 – Oct 2020: supported emergency preparedness; CPR and First Aid certified by Bangladesh Red Crescent Society (2009, refresher 2011); Fire and Safety trained with annual refreshers (2007–2019).
-- **Social Committee Member** · Radisson Blu · Dec 2015 – Oct 2020: organized engagement activities and fundraising for relief.
+- **Social Committee Member** · Radisson Blu · Dec 2015 – Oct 2020: organized engagement activities and events.
 - **Employee Child Care Center Supervisor** · Radisson Blu · Oct 2009 – Oct 2020: managed budget, hygiene inspections and daily activities for children aged 0–5.
 
 ## 📡 Contact
