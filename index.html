@@ -60,7 +60,7 @@ footer{text-align:center;color:var(--mut);font-size:13px;padding:30px 20px;borde
 <h2 id="about">About</h2>
 <div class="card"><p>I design and deploy grounded, cloud-native LLM systems: RAG assistants, multi-agent workflows, data agents and computer-vision services built with Python, Gemini, LangChain, LangGraph, FastAPI, Docker and Google Cloud.</p>
 <p>As a Fellow of the Google Cloud Gen AI Academy APAC Edition (Cohort 3) (<a href="https://certificate.hack2skill.com/verify/2026H2S09GCGENAIAPACC3-P00697" target="_blank" rel="noopener">verify credential</a>), I earned 26 skill badges and shipped 6 AI applications on Cloud Run, including a RAG agent, a BigQuery MCP data agent and a human-in-the-loop analyst agent. I build safeguards into every workflow: least-privilege IAM, read-only SQL with dry-run validation, and human approval before any write action.</p>
-<p>My 14+ years in HR at Radisson Blu Dhaka Water Garden shaped my discipline in interview coordination and conduct, documentation, reporting and stakeholder communication, which I bring to AI/ML engineering.</p>
+<p>My 14+ years of professional HR experience at Radisson Blu Dhaka Water Garden shaped my discipline in interview coordination and conduct, documentation, reporting and stakeholder communication, which I bring to AI/ML engineering.</p>
 <p><b>Open to</b> AI Engineer roles where I own systems from prototype to deployment. If you are building AI that must show its evidence before it answers, I would welcome the conversation.</p></div>
 <h2 id="exp">Experience</h2>
 <div class="card" data-l="tr"><h3>AI/ML Engineer (Independent), TR Enterprise (Start-up)</h3><div class="dt">Technology Division · 1 Sep 2026 - Present · Ongoing · Remote</div>
@@ -126,7 +126,7 @@ const E=[
 ["Bangladesh University","Master's degree, English Language and Literature, General","Jan 2013 - Apr 2014 · Completed","Grade: 3.52"],
 ["International Business Administration and Information System University","Bachelor of Arts (BA), English Language and Literature, General","Jan 2008 - Dec 2012 · Completed","Grade: 3.25"],
 ["Keith Speaking Academy","IELTS Speaking GOLD Interactive · Fluent Grammar · Vocabulary Vault · Idioms","2 Oct 2023 - Present · Ongoing · Lifetime access","Continuous spoken-English development: four English-practice breakout sessions every day, three live classes each month, recorded classes and course updates."]];
-const EL=["ostad","cb","gai","ksa","bu","ibais"];
+const EL=["ostad","cb","gai","ksa","bu",""];
 $("edu-g").innerHTML=[2,1,0,5,3,4].map(k=>E[k]).map((e,i)=>`<div class="card">${EL[i]?`<img class="lg" src="${L[EL[i]]}" alt="">`:``}<h3>${e[0]}</h3><div class="sub">${e[1]}</div><div class="dt">${e[2]}</div>${e[3]?`<p>${e[3]}</p>`:""}</div>`).join("");
 const P=[
 ["Leo: Multi-Agent AI Tutor (CrewAI, Gemini, Streamlit)","Sep 2026 - Oct 2026 · Ostad, Module 26","Four CrewAI agents in sequence: Coordinator validates and plans, Explainer teaches, Quiz Master builds a structured quiz, Evaluator grades and coaches. Typed handoffs via Pydantic with JSON validation; feedback loop (score below 60% triggers re-teach); human-in-the-loop step; guard for vague requests, retries, fallback model, quota message; persistent student memory, optional FAISS grounding on uploaded notes; Streamlit UI showing the active agent; ten unit tests, GitHub Actions CI, Docker.","Python, CrewAI, Gemini, Streamlit, Pydantic, FAISS"],
