@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Farjana Ferdausi, AI/ML Engineer" width="100%">
+<img src="assets/banner.svg" alt="Farjana Ferdausi, AI Engineer" width="100%">
 
-### AI/ML Engineer | Machine Learning, Deep Learning, NLP, LLMs, RAG & Agentic AI Systems
+### AI Engineer | Machine Learning, Deep Learning, NLP, LLMs, RAG & Agentic AI Systems
 
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
@@ -16,7 +16,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farjana-ferdausi/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@farjana.rafi1983)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farjana.rafi1983@gmail.com)
-[![Download CV](https://img.shields.io/badge/Download_CV-7C3AED?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](Farjana-Ferdausi-Resume.pdf)
+[![Download CV](https://img.shields.io/badge/Download_CV-7C3AED?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](Farjana-Ferdausi-Resume-Updated.pdf)
 
 </div>
 Resume Website: https://farjanaferdausi-cs50ai.github.io/Farjana-Ferdausi-Resume/
@@ -25,7 +25,7 @@ Resume Website: https://farjanaferdausi-cs50ai.github.io/Farjana-Ferdausi-Resume
 
 ## ⚡ Summary
 
-AI/ML Engineer building grounded, cloud-deployed LLM systems: RAG assistants, multi-agent workflows, data agents and computer-vision services using Python, Gemini, LangChain, LangGraph, FastAPI, Docker and Google Cloud. Google Cloud Gen AI Academy APAC (Cohort 3) Fellow with 26 skill badges and 6 AI applications deployed on Cloud Run. Former HR professional with 14+ years of experience, bringing disciplined documentation, interview coordination, reporting and stakeholder communication to AI/ML engineering. Seeking AI/ML Engineer roles owning systems from prototype to deployment.
+AI Engineer building grounded, cloud-deployed LLM systems: RAG assistants, multi-agent workflows, data agents and computer-vision services using Python, Gemini, LangChain, LangGraph, FastAPI, Docker and Google Cloud. Google Cloud Gen AI Academy APAC (Cohort 3) Fellow with 26 skill badges and 6 AI applications deployed on Cloud Run. Former HR professional with 14+ years of experience, bringing interview coordination and conduct, disciplined documentation, reporting and stakeholder communication to AI/ML engineering. Seeking AI Engineer roles owning systems from prototype to deployment.
 
 | 🚀 **6** | 🏅 **26** | 🧭 **3** | 🕰️ **14+** |
 |:---:|:---:|:---:|:---:|
@@ -38,7 +38,8 @@ AI/ML Engineer building grounded, cloud-deployed LLM systems: RAG assistants, mu
 | **Languages & Data** | `Python` (pandas, NumPy, Matplotlib, Pydantic) · `SQL` · `REST APIs` · `Data pipelines / ETL` |
 | **Machine Learning** | `scikit-learn` · supervised and unsupervised learning · feature engineering · cross-validation · model evaluation |
 | **Deep Learning, NLP & CV** | `PyTorch` · `TensorFlow` · `Keras` · `Hugging Face Transformers` · BERT fine-tuning · embeddings · `OpenCV` · `YOLOv8` · `YOLOv11` · object tracking (Deep SORT) |
-| **LLMs & Generative AI** | `RAG` · hybrid retrieval (BM25 + embeddings) · `ChromaDB` · prompt engineering · structured outputs · tool calling · `MCP` · multi-agent systems · `Gemini` · `LangChain` · `LangGraph` · `CrewAI` · `Google ADK` · `LangSmith` · `n8n` |
+| **LLMs & Generative AI** | `RAG` · hybrid retrieval (BM25 + embeddings) · `vector databases (ChromaDB)` · prompt engineering · structured outputs · tool calling · `MCP` · multi-agent systems · `Gemini` · `LangChain` · `LangGraph` · `CrewAI` · `Google ADK` · `LangSmith` · `n8n` |
+| Evaluation & Safety | retrieval and answer evaluation sets · citation-grounded answers · confidence gating · refusal protocols · pytest · LangSmith · least-privilege IAM · human-in-the-loop approval |
 | **MLOps & Cloud** | `Docker` · `FastAPI` · `Git` · `CI/CD` · Google Cloud (`Vertex AI`, `Cloud Run`, `BigQuery`, `IAM`, `Secret Manager`) · `Firebase` (Auth, Firestore) · Google Maps Platform · Google Earth Engine · `Render` · `Vercel` |
 
 ## 🛰️ Experience
@@ -48,22 +49,28 @@ AI/ML Engineer building grounded, cloud-deployed LLM systems: RAG assistants, mu
 - Containerize FastAPI services with Docker and ship them to Google Cloud Run.
 - Enforce safeguards in AI workflows: least-privilege IAM, read-only SQL with dry-run validation, and human approval before any write action.
 
-**Participant & Team Leader** · Google Cloud AI Builder Cup 2026, Hack2skill · *Sep 2026 – Present*
+**Participant & Team Leader** · Google Cloud AI Builder Cup 2026, Hack2skill · *Sep 2026 – 9 Nov 2026 · Completed*
 - Leading the team "TR AI Builders" in the Sustainability & Social Impact challenge; built and submitted OmniClean AI, deployed on Google Cloud Run.
-- Shortlist announcement: 9 Nov 2026 · Grand finale: Singapore, 4 Dec 2026.
+- Project submitted on 18 Oct 2026; shortlist results announced on 9 Nov 2026; hackathon completed.
 
-**AI/ML Engineering Fellow** · Google Cloud Gen AI Academy APAC Edition (Cohort 3) · *1 Aug 2026 – 30 Sep 2026*
-- Completed all three tracks plus Meet the Builders and the Ideathon; received the Fellow certificate in Sep 2026.
-- Delivered 5 AI applications on Google Cloud Run: RAG Barista agent, BigQuery MCP data agent, AI Coffee Manager, Flood Risk Assistant Bangladesh and AI/ML Learning Journal.
+**AI/ML Engineering Fellow** · Google Cloud Gen AI Academy APAC Edition (Cohort 3) · *1 Aug 2026 – 2 Nov 2026*
+- Completed all three tracks plus Meet the Builders, the Ideathon and the AI Builder Cup 2026 Hackathon; earned a Certificate of Completion (Sep 2026) and an Ideathon Certificate of Participation (Nov 2026).
+- Delivered 6 AI applications on Google Cloud Run: RAG Barista agent, BigQuery MCP data agent, AI Coffee Manager, Flood Risk Assistant Bangladesh, AI/ML Learning Journal and OmniClean AI.
 
 **Artificial Intelligence Intern** · CodeAlpha, India (Remote) · *20 Jul 2026 – 20 Aug 2026*
 - Delivered 4 end-to-end AI projects: a 20-language voice translator, a TF-IDF/cosine-similarity FAQ chatbot, an LSTM Bach chorale generator, and YOLOv8 & Deep SORT object tracking.
 - Shipped each as a documented, runnable GitHub repository; received a Letter of Recommendation.
 
 <details>
-<summary><b>Earlier experience</b> · Career Break & Continuous Learning, HR Coordinator</summary>
+<summary><b>Earlier experience</b> · HR Coordinator, Career Break & Continuous Learning</summary>
 
 <br>
+
+**HR Coordinator** · Radisson Blu Dhaka Water Garden, Dhaka, Bangladesh · *15 Mar 2006 – 3 Oct 2020*
+- Screened resumes and candidates, scheduled and conducted interviews, and coordinated joining formalities.
+- Administered leave and daily time and attendance through the HRIS, tracking late arrivals, early departures and absenteeism.
+- Maintained employee files and HR records for 400+ employees with 100% documentation compliance; built Excel headcount and attrition reports.
+- Coordinated employee engagement events; recognized with the Women's Loyalty Award (2018) and multiple Radisson Diamond, Platinum and Gold Awards.
 
 **Career Break & Continuous Learning** · Self-directed, Bangladesh · *4 Oct 2020 – Feb 2026*
 
@@ -72,25 +79,19 @@ Planned, self-directed transition from HR to AI/ML engineering through structure
 - Built GenAI foundations: AI Content Creation Bootcamp (Batch 82) and FB & YT Monetization (Batch 83), SR Dream IT, May – Jul 2025; Generative AI Mastermind (Outskill, completed twice: May 2025 and Jun 2026); Introduction to AI (Alison, 2026).
 - Communication: continuous English development, Keith Speaking Academy (2 Oct 2023 – Present), covering IELTS Speaking GOLD Interactive, Fluent Grammar, Vocabulary Vault and Idioms courses.
 
-**HR Coordinator** · Radisson Blu Dhaka Water Garden, Dhaka, Bangladesh · *15 Mar 2006 – 3 Oct 2020*
-- Screened resumes and candidates, scheduled and conducted interviews, and coordinated joining formalities.
-- Administered leave and daily time and attendance through the HRIS, tracking late arrivals, early departures and absenteeism.
-- Maintained employee files and HR records for 400+ employees with 100% documentation compliance; built Excel headcount and attrition reports.
-- Coordinated employee engagement events; recognized with the Women's Loyalty Award (2018) and multiple Radisson Diamond, Platinum and Gold Awards.
-
 </details>
 
 ## 🔬 Projects
 
 ### 1 · OmniClean AI: Waste Intelligence Platform
-*Sustainable and Social Impact · AI Builder Cup 2026, Google Cloud & Hack2skill (Hackathon) · 1 Oct 2026 – 18 Oct 2026*
+*Sustainable and Social Impact · AI Builder Cup 2026, Google Cloud & Hack2skill (Hackathon, Completed) · 1 Oct 2026 – 9 Nov 2026 (project submitted 18 Oct 2026)*
 - Built an AI waste-intelligence platform that identifies items in a photo with Gemini, gives sorting guidance in English and Bengali, blocks recycling advice for hazardous items (batteries, chemicals, sharps, pressurized cans) and flags scans below 0.6 confidence for retake.
 - Added an impact dashboard (recycling rate, estimated CO₂e avoided using EPA WARM v15 factors, 7-day trend) and a garment-factory monitor with a waste-per-1,000-pieces KPI and anomaly detection (> mean + 2σ) across 5 departments.
 - Streamed analytics into 4 date-partitioned BigQuery tables using parameterized SQL and Application Default Credentials (no keys in source); kept the Gemini key server-side with a 4-model fallback ladder; deployed on Google Cloud Run.
 
 `Gemini` `Vertex AI` `React` `TypeScript` `Express` `Firebase` `Firestore` `BigQuery` `Cloud Run`
 
-[![GitHub](https://img.shields.io/badge/GitHub-OmniClean--AI-181717?style=flat-square&logo=github)](https://github.com/farjanaferdausi-cs50ai/OmniClean-AI) [![Live](https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=googlecloud&logoColor=white)](https://omniclean-ai-465358201476.asia-southeast1.run.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-OmniClean--AI-181717?style=flat-square&logo=github)](https://github.com/farjanaferdausi-cs50ai/OmniClean-AI)
 
 ### 2 · ESBC-AI: Easy Service for Bangladeshi Citizens
 *Ostad Institute, Capstone Project (Module 27) · 19 Oct 2026 – 28 Oct 2026*
@@ -110,7 +111,7 @@ Planned, self-directed transition from HR to AI/ML engineering through structure
 
 `Gemini API` `React` `Node.js` `Express` `Firebase Auth` `Firestore` `Google Maps Platform` `Secret Manager` `Cloud Run`
 
-[![GitHub](https://img.shields.io/badge/GitHub-Career--Journal-181717?style=flat-square&logo=github)](https://github.com/farjanaferdausi-cs50ai/AI-ML-Learning-Career-Journal-CloudRun) [![Live](https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=googlecloud&logoColor=white)](https://ai-ml-learning-career-journal-1.ai.studio)
+[![GitHub](https://img.shields.io/badge/GitHub-Career--Journal-181717?style=flat-square&logo=github)](https://github.com/farjanaferdausi-cs50ai/AI-ML-Learning-Career-Journal-CloudRun)
 
 > More projects, articles and certificates: **[Live Portfolio](https://farjanaferdausi-cs50ai.github.io/Farjana-Ferdausi-Resume/)**
 
@@ -125,7 +126,8 @@ Planned, self-directed transition from HR to AI/ML engineering through structure
 
 ## 🏆 Certifications
 
-- **Google Cloud Gen AI Academy, APAC Edition (Cohort 3), Fellow**, Hack2skill & Google Cloud, Sep 2026 (ID 2026H2S09GCGENAIAPACC3-P00697)
+- **Google Cloud Gen AI Academy, APAC Edition (Cohort 3), Certificate of Completion**, Hack2skill & Google Cloud, Sep 2026 (ID 2026H2S09GCGENAIAPACC3-P00697)
+- **Google Cloud Gen AI Academy, APAC Edition (Cohort 3), Ideathon, Certificate of Participation**, Hack2skill & Google Cloud, Nov 2026 (ID 2026H2S09GCGENAIAPACC3I-P00366)
 - **Google Cloud Skills Boost**, 26 skill badges (2026), including Gemini for App Developers, MLOps for Generative AI, Model Armor, Responsible AI, Introduction to AI Agents and Attention Mechanism
 - **CodeAlpha Artificial Intelligence Internship**, with Letter of Recommendation, Aug 2026 (ID CA/DF1/205038)
 - **Generative AI Mastermind**, Outskill, May 2025 & Jun 2026 (completed twice) · **Advanced Prompt Engineering**, Simplilearn, 2026
