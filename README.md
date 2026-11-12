@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Farjana Ferdausi, AI Engineer" width="100%">
+<img src="assets/banner-ai.svg" alt="Farjana Ferdausi, AI Engineer" width="100%">
 
 ### AI Engineer | Machine Learning, Deep Learning, NLP, LLMs, RAG & Agentic AI Systems
 
