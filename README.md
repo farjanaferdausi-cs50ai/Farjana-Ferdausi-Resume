@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner-ai.svg" alt="Farjana Ferdausi, AI Engineer" width="100%">
+<img src="assets/banner-featured-builder.png" alt="Farjana Ferdausi, Google Gen AI APAC Builder 2026 Featured Builder, AI/ML Engineer" width="100%">
 
 ### AI Engineer | Machine Learning, Deep Learning, NLP, LLMs, RAG & Agentic AI Systems
 
@@ -39,7 +39,7 @@ AI Engineer building grounded, cloud-deployed LLM systems: RAG assistants, multi
 | **Machine Learning** | `scikit-learn` · supervised and unsupervised learning · feature engineering · cross-validation · model evaluation |
 | **Deep Learning, NLP & CV** | `PyTorch` · `TensorFlow` · `Keras` · `Hugging Face Transformers` · BERT fine-tuning · embeddings · `OpenCV` · `YOLOv8` · `YOLOv11` · object tracking (Deep SORT) |
 | **LLMs & Generative AI** | `RAG` · hybrid retrieval (BM25 + embeddings) · `vector databases (ChromaDB)` · prompt engineering · structured outputs · tool calling · `MCP` · multi-agent systems · `Gemini` · `LangChain` · `LangGraph` · `CrewAI` · `Google ADK` · `LangSmith` · `n8n` |
-| Evaluation & Safety | retrieval and answer evaluation sets · citation-grounded answers · confidence gating · refusal protocols · pytest · LangSmith · least-privilege IAM · human-in-the-loop approval |
+| **Evaluation & Safety** | retrieval and answer evaluation sets · citation-grounded answers · confidence gating · refusal protocols · pytest · LangSmith · least-privilege IAM · human-in-the-loop approval |
 | **MLOps & Cloud** | `Docker` · `FastAPI` · `Git` · `CI/CD` · Google Cloud (`Vertex AI`, `Cloud Run`, `BigQuery`, `IAM`, `Secret Manager`) · `Firebase` (Auth, Firestore) · Google Maps Platform · Google Earth Engine · `Render` · `Vercel` |
 
 ## 🛰️ Experience
@@ -70,7 +70,7 @@ AI Engineer building grounded, cloud-deployed LLM systems: RAG assistants, multi
 - Screened resumes and candidates, scheduled and conducted interviews, and coordinated joining formalities.
 - Administered leave and daily time and attendance through the HRIS, tracking late arrivals, early departures and absenteeism.
 - Maintained employee files and HR records for 400+ employees with 100% documentation compliance; built Excel headcount and attrition reports.
-- Coordinated employee engagement events; recognized with the Women's Loyalty Award (2018) and multiple Radisson Diamond, Platinum and Gold Awards.
+- Coordinated employee engagement events.
 
 **Career Break & Continuous Learning** · Self-directed, Bangladesh · *4 Oct 2020 – Feb 2026*
 
@@ -133,6 +133,14 @@ Planned, self-directed transition from HR to AI/ML engineering through structure
 - **Generative AI Mastermind**, Outskill, May 2025 & Jun 2026 (completed twice) · **Advanced Prompt Engineering**, Simplilearn, 2026
 - **Python for Data Science & ML**, UniAthena, 2026 · **Introduction to Artificial Intelligence**, Alison, Feb 2026 (ID 25255027)
 - **Human Resources**, Alison: Diploma in HR (Nov 2023), Diploma in Modern HRM (Jun 2022) and three short HR courses (2022)
+
+## 🏅 Awards & Recognition
+
+- **Featured Builder**, Google Gen AI APAC Builder 2026, Google Cloud & Hack2skill (Meet the Builders 2026), Nov 2026
+- **Yes I Can! Excellence Awards**, Radisson Blu Dhaka Water Garden: Diamond (Jul 2015, Feb 2018), Platinum (Feb 2013, Mar 2016), Gold (Sep 2007, Apr 2010)
+- **Women's Loyalty Award**, Radisson Blu Dhaka Water Garden, May 2018, in recognition of 13 years of service
+- **Certificate of Participation, Radisson Joggathon**, 2nd position, Oct 2017
+- **Recognition for 14 WOW Cards**, Radisson Blu Dhaka Water Garden (guest-satisfaction recognition program), Jan 2020
 
 ## 🤝 Volunteering & Leadership
 
