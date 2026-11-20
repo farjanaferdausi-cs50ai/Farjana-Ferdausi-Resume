@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner-featured-builder.png" alt="Farjana Ferdausi, Google Gen AI APAC Builder 2026 Featured Builder, AI/ML Engineer" width="100%">
+<img src="assets/banner-featured-builder.png" alt="Farjana Ferdausi, Google Gen AI APAC Builder 2026 Featured Builder, AI Engineer" width="100%">
 
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
@@ -23,7 +23,7 @@ Resume Website: https://farjanaferdausi-cs50ai.github.io/Farjana-Ferdausi-Resume
 
 ## ⚡ Summary
 
-AI Engineer building grounded, cloud-deployed LLM systems: RAG assistants, multi-agent workflows, data agents and computer-vision services using Python, Gemini, LangChain, LangGraph, FastAPI, Docker and Google Cloud. Fellow of the Google Cloud Gen AI Academy APAC Edition (Cohort 3) with 26 skill badges from Google Cloud Skills Boost and 6 AI applications deployed on Google Cloud Run. Former HR professional with over 14 years of experience, bringing interview coordination and conduct, disciplined documentation, reporting and stakeholder communication to AI/ML engineering. Seeking AI Engineer roles owning systems from prototype to deployment.
+AI Engineer building grounded, cloud-deployed LLM systems: RAG assistants, multi-agent workflows, data agents and computer-vision services using Python, Gemini, LangChain, LangGraph, FastAPI, Docker and Google Cloud. Fellow of the Google Cloud Gen AI Academy APAC Edition (Cohort 3) with 26 skill badges from Google Cloud Skills Boost and 6 AI applications deployed on Google Cloud Run. Former HR professional with over 14 years of experience, bringing interview coordination and conduct, disciplined documentation, reporting and stakeholder communication to AI engineering. Seeking AI Engineer roles owning systems from prototype to deployment.
 
 | 🚀 **6** | 🏅 **26** | 🧭 **3** | 🕰️ **14+** |
 |:---:|:---:|:---:|:---:|
@@ -46,7 +46,7 @@ AI Engineer building grounded, cloud-deployed LLM systems: RAG assistants, multi
 **AI Builder, Anna Founding Builder Program** · Anna AI OS (anna.partners), Hong Kong · Remote · *19 Nov 2026 – Present*
 - Participating in the Anna Founding Builder Program as a builder, after the Anna team selected the AI/ML Learning & Career Journal project as a potential fit.
 - Adapting the project into an Anna App with an interactive UI, a working backend, and an AI-native core: a multi-turn technical coach, study-session journals, weak-skill detection, focus recommendations, progress trends, and career-gap analysis.
-- Building and testing on Anna's developer platform (App UI, Executa tools, platform LLM), targeting Marketplace publication in Phase 2 (through March 2027).
+- Building and testing on Anna's developer platform (App UI, Executa tools, platform LLM), targeting Marketplace publication.
 
 **AI/ML Engineer, Independent** · TR Enterprise (Start-up), Technology Division, Dinajpur, Bangladesh · Remote · *1 Sep 2026 – 30 Nov 2026*
 - Designed, built and deployed cloud-hosted RAG chatbots, computer-vision services and data-analysis agents using Gemini, Google ADK, LangChain, LangGraph, BigQuery, FastAPI and Docker, owning the ML lifecycle from prototype to deployment.
@@ -73,7 +73,7 @@ AI Engineer building grounded, cloud-deployed LLM systems: RAG assistants, multi
 **HR Coordinator** · Radisson Blu Dhaka Water Garden, Dhaka, Bangladesh · *15 Mar 2006 – 3 Oct 2020*
 - Screened resumes and candidates, scheduled and conducted interviews, and coordinated joining formalities.
 - Administered leave and daily time and attendance through the HRIS, tracking late arrivals, early departures and absenteeism.
-- Maintained records for over 400 employees with 100% documentation compliance; built Excel headcount and attrition reports.
+- Maintained records for 400+ employees with 100% documentation compliance; built Excel headcount and attrition reports.
 - Coordinated employee engagement events.
 
 **Career Break & Continuous Learning** · Self-directed, Bangladesh · *4 Oct 2020 – Feb 2026*
@@ -130,12 +130,13 @@ Planned, self-directed transition from HR to AI/ML engineering through structure
 | Program | Institution | Period |
 |:--|:--|:--|
 | AI Engineering & Data Science Bootcamp 4.0 | Codebasics, Hyderabad, India | 22 Jul 2026 – Present |
-| AI & ML Engineer Bootcamp, Batch 6 | Ostad, Dhaka, Bangladesh | 18 Feb 2026 – Present |
+| AI/ML Engineer Bootcamp, Batch 6 | Ostad, Dhaka, Bangladesh | 18 Feb 2026 – 19 Nov 2026 |
 | Google Cloud Gen AI Academy APAC Edition (Cohort 3) | Google Cloud & Hack2skill, Asia Pacific Region | 1 Aug 2026 – 2 Nov 2026 |
 | English Communication (IELTS Speaking GOLD Interactive, Fluent Grammar, Vocabulary Vault, Idioms) | Keith Speaking Academy, Madrid, Spain | 2 Oct 2023 – Present |
 
 ## 🏆 Certifications
 
+- **AI Engineering Bootcamp, Certificate of Completion**, Ostad, 18 Feb 2026 – 19 Nov 2026 (ID C50095) · [Verify](https://drive.google.com/file/d/1NKl4pVKLUucRxk4oozcR1SXRJKmbuIfd/view?usp=sharing)
 - **Gen AI Academy APAC (Cohort 3), Certificate of Completion**, Hack2skill & Google Cloud, Sep 2026 (ID 2026H2S09GCGENAIAPACC3-P00697) · [Verify](https://certificate.hack2skill.com/verify/2026H2S09GCGENAIAPACC3-P00697)
 - **Gen AI Academy APAC (Cohort 3), Ideathon, Certificate of Participation**, Hack2skill & Google Cloud, Nov 2026 (ID 2026H2S09GCGENAIAPACC3I-P00366) · [Verify](https://certificate.hack2skill.com/verify/2026H2S09GCGENAIAPACC3I-P00366)
 - **Google Cloud Skills Boost**, 26 skill badges (2026), including Gemini for App Developers, MLOps for Generative AI, Model Armor, Responsible AI, Introduction to AI Agents and Attention Mechanism · [Badges](https://www.skills.google/public_profiles/cdeb559b-8637-4a38-8437-932ff2a5d525)
