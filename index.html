@@ -93,6 +93,65 @@ footer{text-align:center;color:var(--mut);font-size:13px;padding:30px 20px;borde
 .pjl{display:flex;align-items:center;gap:8px;flex:0 0 auto;white-space:nowrap;font-size:13px;font-weight:600;padding-top:1px;float:none;margin:0}
 .pjl a{color:var(--g);text-decoration:none}.pjl a:hover,.pjl a:focus-visible{text-decoration:underline}
 .pjl .pjsep{color:#9db2d6;font-weight:400}
+
+.loc{margin:14px 0 0}
+.q{font-style:normal;font-family:inherit}
+#abc .mb{margin-top:6px}
+#exp-g{grid-template-columns:repeat(2,minmax(0,1fr))}
+#exp-g .card{margin:0;padding:14px 18px 14px 22px}
+#exp-g .card h3{font-size:16px;line-height:1.3}
+#exp-g .xb{height:132px;overflow:hidden;position:relative;clear:both;font-size:14px;line-height:1.55}
+#exp-g .xb::after{content:"";position:absolute;left:0;right:0;bottom:0;height:34px;background:linear-gradient(rgba(255,255,255,0),#fff);pointer-events:none}
+#exp-g .card.open .xb{height:auto;overflow:visible}#exp-g .card.open .xb::after{display:none}
+#exp-g .xb ul{margin:6px 0 0;padding-left:18px}#exp-g .xb p{margin:6px 0 0}
+#pj:not(.all) .pjx{display:none}
+#mod .mclose{position:fixed;top:max(12px,env(safe-area-inset-top));right:12px;z-index:10001;border:0;border-radius:20px;background:#1e3a8a;color:#fff;font:600 14px Inter,system-ui,sans-serif;padding:9px 16px;cursor:pointer;box-shadow:0 4px 14px rgba(0,0,0,.35)}
+@media(max-width:700px){#exp-g{grid-template-columns:1fr}}
+
+/* ===== Option B: dark professional theme ===== */
+:root{--tx:#e6edf7;--mut:#9fb0cc;--g:#38bdf8;--b:#a78bfa;--gb:rgba(148,163,184,.20)}
+html{background:#070b1a}
+body{background:radial-gradient(760px 520px at 6% -4%,rgba(56,189,248,.20),transparent 70%),radial-gradient(680px 520px at 96% 18%,rgba(139,92,246,.22),transparent 70%),radial-gradient(640px 520px at 12% 88%,rgba(20,184,166,.14),transparent 70%),#070b1a;background-attachment:fixed;color:var(--tx)}
+a{color:#7dd3fc}
+nav{background:rgba(12,18,38,.78);border-color:rgba(148,163,184,.22);box-shadow:0 8px 30px rgba(0,0,0,.45)}
+nav a{color:#b6c4dc}nav a:hover{background:linear-gradient(120deg,#2563eb,#38bdf8);color:#04121f}
+.bn img{border-radius:18px;box-shadow:0 18px 50px rgba(0,0,0,.5)}
+.hero{background:linear-gradient(rgba(13,20,42,.94),rgba(10,16,36,.94)) padding-box,linear-gradient(120deg,#38bdf8,#6366f1,#a78bfa) border-box;box-shadow:0 24px 70px rgba(0,0,0,.55),0 0 60px rgba(56,189,248,.10)}
+.ph svg{filter:drop-shadow(0 12px 28px rgba(56,189,248,.35))}
+h1{background:linear-gradient(90deg,#fff,#7dd3fc 60%,#c4b5fd)}
+.sub2{color:#a9b9d3}
+.chips span{background:rgba(56,189,248,.10);border-color:rgba(56,189,248,.35);color:#bae6fd}
+.chips span.b{background:rgba(167,139,250,.12);border-color:rgba(167,139,250,.40);color:#ddd6fe}
+.ct a{background:rgba(255,255,255,.04);border-color:rgba(148,163,184,.28);color:#e2e8f0}
+.ct a:hover{border-color:#38bdf8;color:#7dd3fc;background:rgba(56,189,248,.08)}
+#dl{background:linear-gradient(120deg,#2563eb,#38bdf8);color:#04121f;border-color:transparent}
+#dl:hover{color:#04121f;filter:brightness(1.08)}
+.st div{background:rgba(15,23,42,.72);border-color:rgba(148,163,184,.20)}
+.st div:nth-child(even){background:rgba(30,27,75,.55)}
+.st b{background:linear-gradient(90deg,#7dd3fc,#c4b5fd);-webkit-background-clip:text;background-clip:text;color:transparent}
+h2{font:700 13px "Space Grotesk",Inter,sans-serif;letter-spacing:.18em;text-transform:uppercase;color:#7dd3fc;margin:58px 0 20px}
+h2::before{background:linear-gradient(135deg,#38bdf8,#a78bfa)}
+h2::after{background:linear-gradient(90deg,rgba(125,211,252,.45),transparent)}
+h3{color:#f1f5f9}
+.card{background:rgba(15,23,42,.86);border-color:rgba(148,163,184,.18);box-shadow:0 10px 30px rgba(0,0,0,.35)}
+.card:hover{border-color:rgba(56,189,248,.55);box-shadow:0 14px 40px rgba(0,0,0,.5),0 0 28px rgba(56,189,248,.10)}
+.card::before{background:linear-gradient(#38bdf8,#8b5cf6)}
+.card p,.card ul,.card li{color:#d5deec}
+.dt{color:#7dd3fc}.sub{color:#a9b9d3}
+.tech{color:#9fb0cc}.tech b{color:#e2e8f0}
+.card b{color:#f8fafc}
+.q{color:#c3cfe3}
+.tile{background:rgba(56,189,248,.14);color:#bae6fd}
+.cl .cr,.cv{background:rgba(56,189,248,.10);border-color:rgba(56,189,248,.40);color:#bae6fd}
+.cv:hover,.cl .cr:hover{background:#38bdf8;color:#04121f;text-decoration:none}
+.mb{background:rgba(56,189,248,.10);border-color:rgba(56,189,248,.45);color:#bae6fd}
+.mb:hover,.mb:focus-visible{background:#38bdf8;color:#04121f}
+.btn{background:rgba(56,189,248,.10);border:1px solid rgba(56,189,248,.45);color:#bae6fd}
+.btn:hover{background:#38bdf8;color:#04121f;text-decoration:none}
+.pjl a,.pjl a:visited{color:#7dd3fc}.pjl .pjsep{color:#52627f}
+#exp-g .xb::after{background:linear-gradient(rgba(15,23,42,0),rgba(15,23,42,.97))}
+footer{color:#8fa1bf;border-color:rgba(148,163,184,.18)}
+#mod .mclose{background:#38bdf8;color:#04121f}
 </style><link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0' y1='0' x2='1' y2='1'%3E%3Cstop offset='0' stop-color='%232563eb'/%3E%3Cstop offset='1' stop-color='%2338bdf8'/%3E%3C/linearGradient%3E%3C/defs%3E%3Cpath d='M32 2l27 15v30L32 62 5 47V17z' fill='url(%23g)'/%3E%3Ctext x='32' y='42' font-family='Arial' font-weight='700' font-size='26' text-anchor='middle' fill='white'%3EFF%3C/text%3E%3C/svg%3E">
 </head><body>
 <nav><a href="#about">About</a><a href="#exp">Experience</a><a href="#edu">Education</a><a href="#training">Training</a><a href="#proj">Projects</a><a href="#skills">Skills</a><a href="#cert">Certifications</a><a href="#awards">Awards</a><a href="#art">Medium Articles</a><a href="#vol">Volunteering</a><a href="#rec">Recommendations</a></nav>
@@ -102,11 +161,13 @@ footer{text-align:center;color:var(--mut);font-size:13px;padding:30px 20px;borde
 
 <div class="st"><div><b>6</b><span>AI apps on Cloud Run</span></div><div><b>26</b><span>Skill badges</span></div><div><b>3</b><span>Gen AI Academy tracks</span></div><div><b>14+</b><span>Years in HR</span></div></div>
 <h2 id="about">About</h2>
-<div class="card"><p>I design and deploy grounded, cloud-native LLM systems: RAG assistants, multi-agent workflows, data agents and computer-vision services built with Python, Gemini, LangChain, LangGraph, FastAPI, Docker and Google Cloud.</p>
-<p>As a Fellow of the Google Cloud Gen AI Academy APAC Edition (Cohort 3), I earned 26 skill badges from Google Cloud Skills Boost and shipped 6 AI applications on Google Cloud Run, including a RAG agent, a BigQuery MCP data agent and a human-in-the-loop analyst agent. I build safeguards into every workflow: least-privilege IAM, read-only SQL with dry-run validation, and human approval before any write action.</p>
-<p>Over 14 years of professional HR experience at Radisson Blu Dhaka Water Garden shaped my discipline in interview coordination and conduct, documentation, reporting and stakeholder communication, which I bring to AI engineering.</p>
+<div class="card" id="abc"><p>I build grounded, cloud-native LLM systems: RAG assistants, multi-agent workflows and data agents, shipped on Google Cloud Run. Fellow of the Google Cloud Gen AI Academy APAC Edition (Cohort 3), with 26 skill badges and 6 AI applications deployed.</p>
+<div id="abm" hidden><p>Every workflow I ship has safeguards built in: least-privilege IAM, read-only SQL with dry-run validation and human approval before any write action.</p>
+<p>My 14 years in HR at Radisson Blu Dhaka Water Garden shaped my discipline in documentation, reporting and stakeholder communication, which I bring to AI engineering.</p>
 <p><b>Open to</b> AI Engineer roles where I own systems from prototype to deployment. If you are building AI that must show its evidence before it answers, I would welcome the conversation.</p></div>
+<button type="button" class="mb" id="abb" aria-expanded="false">More</button></div>
 <h2 id="exp">Experience</h2>
+<div class="gr" id="exp-g">
 <div class="card"><h3>AI Builder, Anna Founding Builder Program</h3><div class="dt">Anna AI OS (anna.partners) · 19 Nov 2026 - Present · Ongoing · Hong Kong · Remote</div>
 <ul><li>Participating in the Anna Founding Builder Program as a builder, after the Anna team selected my AI/ML Learning &amp; Career Journal project as a potential fit</li><li>Adapting the project into an Anna App with an interactive UI, a working backend, and an AI-native core: a multi-turn technical coach, study-session journals, weak-skill detection, focus recommendations, progress trends, and career-gap analysis</li><li>Building and testing on Anna’s developer platform (App UI, Executa tools, platform LLM), targeting Marketplace publication</li></ul></div>
 <div class="card" data-l="tr"><h3>AI/ML Engineer (Independent), TR Enterprise (Start-up)</h3><div class="dt">Technology Division · 1 Sep 2026 - 30 Nov 2026 · Dinajpur, Bangladesh · Remote</div>
@@ -128,6 +189,7 @@ footer{text-align:center;color:var(--mut);font-size:13px;padding:30px 20px;borde
 </div>
 <div class="card"><h3>Career Break &amp; Continuous Learning</h3><div class="dt">4 Oct 2020 - Feb 2026 · Self-directed · Bangladesh</div>
 <p>Planned, self-directed transition from HR to AI/ML engineering through structured, certified learning.</p><ul><li><b>HR upskilling:</b> two Alison diplomas (Modern HRM, 2022; Human Resources, 2023) and three certificates (International &amp; Strategic HRM; HR Policies &amp; Organization Structure; HR in Food Service &amp; Hospitality; 2022)</li><li><b>GenAI foundations:</b> AI Content Creation Bootcamp (Batch 82) and FB &amp; YT Monetization (Batch 83), SR Dream IT, May - Jul 2025; Generative AI Mastermind (Outskill, completed twice: May 2025 and Jun 2026); Introduction to AI (Alison, 2026)</li><li><b>Communication:</b> continuous English development at Keith Speaking Academy (2 Oct 2023 - Present · Ongoing): IELTS Speaking GOLD Interactive, Fluent Grammar, Vocabulary Vault and Idioms courses</li></ul></div>
+</div>
 <h2 id="edu">Education</h2>
 <div class="gr" id="edu-g"></div>
 
@@ -136,6 +198,7 @@ footer{text-align:center;color:var(--mut);font-size:13px;padding:30px 20px;borde
 
 <h2 id="proj">Projects</h2>
 <div class="gr" id="pj"></div>
+<div class="more"><button class="btn" id="pjb" type="button" aria-expanded="false"></button><a class="btn" href="https://github.com/farjanaferdausi-cs50ai?tab=repositories" target="_blank" rel="noopener">All repositories on GitHub</a></div>
 
 <h2 id="skills">Skills</h2>
 <div id="sk"></div>
@@ -175,8 +238,8 @@ const L={"h2s": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAWgAAAC+CAIAAACXl
 const $=id=>document.getElementById(id);
 $("hero").innerHTML=`<div class="ph"><svg viewBox="0 0 100 100" role="img" aria-label="Farjana Ferdausi"><defs><linearGradient id="hg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2563eb"/><stop offset="1" stop-color="#38bdf8"/></linearGradient><clipPath id="hc"><polygon points="50,2.8 97.2,26.4 97.2,73.6 50,97.2 2.8,73.6 2.8,26.4"/></clipPath></defs><polygon points="50,0 100,25 100,75 50,100 0,75 0,25" fill="url(#hg)"/><polygon points="50,2.8 97.2,26.4 97.2,73.6 50,97.2 2.8,73.6 2.8,26.4" fill="#fff"/><image href="${L.me}" x="4.5" y="11.5" width="91" height="92.3" preserveAspectRatio="xMidYMin slice" clip-path="url(#hc)"/></svg></div><div>
 <h1 class="sr">Farjana Ferdausi, AI Engineer</h1>
-<div class="chips rl"><span>Gemini</span><span class="b">LangGraph</span><span>FastAPI</span><span class="b">Docker</span><span>REST APIs</span></div><p class="sub2">Google Cloud Gen AI Academy APAC Edition (Cohort 3), Fellow</p><p class="sub2">Dinajpur, Bangladesh</p>
-<div class="ct"><a href="mailto:farjana.rafi1983@gmail.com"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="m3 7 9 6 9-6"/></svg>farjana.rafi1983@gmail.com</a><a href="tel:+8801675466770"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 4h4l2 5-2.5 1.5a11 11 0 0 0 5 5L15 13l5 2v4a2 2 0 0 1-2 2A16 16 0 0 1 3 6a2 2 0 0 1 2-2z"/></svg>+880 1675-466770</a><a href="https://wa.me/8801675466770"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a9 9 0 1 1-3.5-7.1L21 3l-1.2 3.6A9 9 0 0 1 21 12z"/><path d="M9 9c0 3 3 6 6 6l1-2-2-1-1 .8c-.8-.4-1.6-1.2-2-2l.8-1-1-2z"/></svg>WhatsApp</a><a href="https://www.linkedin.com/in/farjana-ferdausi">LinkedIn</a><a href="https://github.com/farjanaferdausi-cs50ai">GitHub</a><a href="https://medium.com/@farjana.rafi1983">Medium</a><a id="dl" href="Farjana-Ferdausi-Resume.pdf" download hidden>Download CV (PDF)</a></div></div>`;
+<div class="chips rl"><span>Gemini</span><span class="b">LangGraph</span><span>FastAPI</span><span class="b">Docker</span><span>REST APIs</span></div><p class="sub2">Google Cloud Gen AI Academy APAC Edition (Cohort 3), Fellow</p>
+<div class="ct"><a href="mailto:farjana.rafi1983@gmail.com"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="m3 7 9 6 9-6"/></svg>farjana.rafi1983@gmail.com</a><a href="tel:+8801675466770"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 4h4l2 5-2.5 1.5a11 11 0 0 0 5 5L15 13l5 2v4a2 2 0 0 1-2 2A16 16 0 0 1 3 6a2 2 0 0 1 2-2z"/></svg>+880 1675-466770</a><a href="https://wa.me/8801675466770"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a9 9 0 1 1-3.5-7.1L21 3l-1.2 3.6A9 9 0 0 1 21 12z"/><path d="M9 9c0 3 3 6 6 6l1-2-2-1-1 .8c-.8-.4-1.6-1.2-2-2l.8-1-1-2z"/></svg>WhatsApp</a><a href="https://www.linkedin.com/in/farjana-ferdausi">LinkedIn</a><a href="https://github.com/farjanaferdausi-cs50ai">GitHub</a><a href="https://medium.com/@farjana.rafi1983">Medium</a><a id="dl" href="Farjana-Ferdausi-Resume.pdf" download hidden>Download CV (PDF)</a></div><p class="sub2 loc">Dinajpur, Bangladesh</p></div>`;
 if(/github\.io$/.test(location.hostname)||location.protocol==="file:")$("dl").hidden=false;
 document.querySelectorAll("[data-l]").forEach(c=>c.insertAdjacentHTML("afterbegin",`<img class="lg" data-k="${c.dataset.l}" src="${L[c.dataset.l]}" alt="">`));
 const E=[
@@ -273,9 +336,25 @@ $("ar").innerHTML=AR.slice(0,3).map(card).join("");$("ar2").innerHTML=AR.slice(3
 const arb=$("arb"),setB=o=>{arb.textContent=o?"Show fewer articles":"Show "+(AR.length-3)+" more articles";arb.setAttribute("aria-expanded",o)};setB(false);
 arb.addEventListener("click",()=>{const o=$("ar2").hidden;$("ar2").hidden=!o;setB(o)});
 
-document.addEventListener("click",e=>{const b=e.target.closest(".cv"),m=$("mod");if(b){m.innerHTML='<div class="mc"><p>Click anywhere outside the certificate to close</p>'+b.dataset.i.split(",").map(k=>`<img src="${IM[k]}" alt="Certificate">`).join("")+"</div>";m.hidden=false;m.scrollTop=0;return}if(!m.hidden&&!e.target.closest(".mc img"))m.hidden=true});
-document.addEventListener("keydown",e=>{if(e.key==="Escape")$("mod").hidden=true});
+(function(){const m=$("mod");let pushed=false;
+function openM(b){m.innerHTML='<button type="button" class="mclose" aria-label="Close certificate">\u2715 Close</button><div class="mc"><p>Tap Close, press Back or tap outside the certificate to return</p>'+b.dataset.i.split(",").map(k=>`<img src="${IM[k]}" alt="Certificate">`).join("")+"</div>";m.hidden=false;m.scrollTop=0;document.body.style.overflow="hidden";try{history.pushState({mod:1},"");pushed=true}catch(e){pushed=false}}
+function closeM(pop){if(m.hidden)return;m.hidden=true;m.innerHTML="";document.body.style.overflow="";if(!pop&&pushed){pushed=false;try{history.back()}catch(e){}}else pushed=false}
+document.addEventListener("click",e=>{const b=e.target.closest(".cv");if(b){openM(b);return}if(!m.hidden&&(e.target.closest(".mclose")||!e.target.closest(".mc img")))closeM(false)});
+addEventListener("popstate",()=>closeM(true));
+document.addEventListener("keydown",e=>{if(e.key==="Escape")closeM(false)});})();
 
-function initMore(){document.querySelectorAll(".gr .card>p,#pj .card>p").forEach(p=>{p.classList.add("clp");let b=p.nextElementSibling;if(!(b&&b.classList.contains("mb"))){b=document.createElement("button");b.type="button";b.className="mb";b.textContent="More";b.setAttribute("aria-expanded","false");b.onclick=()=>{const o=p.classList.toggle("open");p.closest(".card").classList.toggle("open",o);p.closest(".card").classList.toggle("exp",o);b.textContent=o?"Less":"More";b.setAttribute("aria-expanded",String(o))};p.after(b)}const over=p.classList.contains("open")||p.scrollHeight>p.clientHeight+2||!!p.closest("#pj");b.hidden=!over})}
+
+function initMore(){document.querySelectorAll(".gr:not(#exp-g) .card>p,#pj .card>p").forEach(p=>{p.classList.add("clp");let b=p.nextElementSibling;if(!(b&&b.classList.contains("mb"))){b=document.createElement("button");b.type="button";b.className="mb";b.textContent="More";b.setAttribute("aria-expanded","false");b.onclick=()=>{const o=p.classList.toggle("open");p.closest(".card").classList.toggle("open",o);p.closest(".card").classList.toggle("exp",o);b.textContent=o?"Less":"More";b.setAttribute("aria-expanded",String(o))};p.after(b)}const over=p.classList.contains("open")||p.scrollHeight>p.clientHeight+2||!!p.closest("#pj");b.hidden=!over})}
 initMore();addEventListener("load",initMore);addEventListener("resize",initMore);
+
+(function(){
+const ab=$("abb"),am=$("abm");if(ab)ab.onclick=()=>{const o=am.hidden;am.hidden=!o;ab.textContent=o?"Less":"More";ab.setAttribute("aria-expanded",String(o))};
+function initExp(){document.querySelectorAll("#exp-g .card").forEach(c=>{let xb=c.querySelector(":scope>.xb");if(!xb){const dt=c.querySelector(":scope>.dt");if(!dt)return;xb=document.createElement("div");xb.className="xb";let n=dt.nextSibling;while(n){const nx=n.nextSibling;xb.appendChild(n);n=nx}c.appendChild(xb);const b=document.createElement("button");b.type="button";b.className="mb";b.textContent="More";b.setAttribute("aria-expanded","false");b.onclick=()=>{const o=c.classList.toggle("open");b.textContent=o?"Less":"More";b.setAttribute("aria-expanded",String(o))};c.appendChild(b)}
+const b=c.querySelector(":scope>.mb");b.hidden=!(c.classList.contains("open")||xb.scrollHeight>xb.clientHeight+2)})}
+initExp();addEventListener("load",initExp);addEventListener("resize",initExp);
+const pj=$("pj"),pb=$("pjb");
+if(pj&&pb){const cards=[...pj.children];const f=cards.splice(14,1)[0];cards.splice(5,0,f);cards.forEach(c=>pj.appendChild(c));cards.slice(6).forEach(c=>c.classList.add("pjx"));const n=cards.length-6;
+const set=()=>{const o=pj.classList.contains("all");pb.textContent=o?"Show fewer projects":"Show "+n+" more projects";pb.setAttribute("aria-expanded",String(o))};set();pb.onclick=()=>{pj.classList.toggle("all");set();if(!pj.classList.contains("all"))$("proj").scrollIntoView()}}
+document.querySelectorAll('a[href^="http"]').forEach(a=>{try{if(new URL(a.href).origin!==location.origin){a.target="_blank";a.rel="noopener noreferrer"}}catch(e){}});
+})();
 </script></body></html>
